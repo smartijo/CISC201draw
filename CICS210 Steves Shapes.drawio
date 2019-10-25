@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T01:43:47.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="u-Mi_HToNQPPs4uwhSFw" version="12.1.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-10-25T01:51:32.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="EJaRw7BQRBdHes8M5hSt" version="12.1.5" type="github" pages="4">
   <diagram id="B0yvF3y02Yiysx_FKzZP" name="Page-1">
     <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -384,23 +384,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="l2rHlMXOk82r8myohsnR" name="build">
-    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="-FFPc_2GmYRrsboZQdO_-0"/>
         <mxCell id="-FFPc_2GmYRrsboZQdO_-1" parent="-FFPc_2GmYRrsboZQdO_-0"/>
         <mxCell id="-FFPc_2GmYRrsboZQdO_-2" value="entertainmentBuilder" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-1">
           <mxGeometry x="270" y="90" width="230" height="242" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-6" value="+ stereo: stereo&#xa;&#xa;speakers : speakers&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-6" value="- stereo: stereo&#xa;&#xa;speakers : speakers&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
           <mxGeometry y="26" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-8" value="+ connections: connections" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-8" value="- connections: connections" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
           <mxGeometry y="52" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-7" value="+ stereo: stereo&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-7" value="- stereo: stereo&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
           <mxGeometry y="78" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="-FFPc_2GmYRrsboZQdO_-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
+        <mxCell id="-FFPc_2GmYRrsboZQdO_-3" value="- field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
           <mxGeometry y="104" width="230" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="-FFPc_2GmYRrsboZQdO_-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-2">
@@ -419,25 +419,25 @@
           <mxGeometry y="216" width="230" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="lkKAGPi_Do3l90EPDDFt-0" value="Entertainment" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-1">
-          <mxGeometry x="580" y="112" width="160" height="198" as="geometry"/>
+          <mxGeometry x="580" y="112" width="290" height="156" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-1" value="+ stereo: stereo&#xa;&#xa;speakers : speakers&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
-          <mxGeometry y="26" width="160" height="26" as="geometry"/>
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-1" value="- stereo: stereo&#xa;&#xa;speakers : speakers&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
+          <mxGeometry y="26" width="290" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-4" value="+ stereo: stereo&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
-          <mxGeometry y="52" width="160" height="26" as="geometry"/>
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-4" value="- speakers: speakers&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
+          <mxGeometry y="52" width="290" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-5" value="+ connections: connections" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
-          <mxGeometry y="78" width="160" height="26" as="geometry"/>
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-5" value="- connections: connections" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
+          <mxGeometry y="78" width="290" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="lkKAGPi_Do3l90EPDDFt-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
-          <mxGeometry y="104" width="160" height="68" as="geometry"/>
+          <mxGeometry y="104" width="290" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-3" value="+ singleton()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
-          <mxGeometry y="172" width="160" height="26" as="geometry"/>
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-3" value="# entertainment(speakers, stereo. Connections)()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lkKAGPi_Do3l90EPDDFt-0">
+          <mxGeometry y="130" width="290" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="lkKAGPi_Do3l90EPDDFt-12" value="the code:&lt;br&gt;eb = new EntertainmentBuilder()&lt;br&gt;b = eb.build()&lt;br&gt;eb.setstereo(&quot;bose&quot;)&lt;br&gt;&lt;br&gt;e=eb.build()&lt;br&gt;&lt;br&gt;================&lt;br&gt;New Entertainbuilder()&lt;br&gt;&amp;nbsp; &amp;nbsp;setsterio(&quot;bose&quot;)&lt;br&gt;&amp;nbsp; &amp;nbsp;setconnections(&quot;carplay&quot;)&lt;br&gt;&amp;nbsp; &amp;nbsp;build()&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-1">
-          <mxGeometry x="150" y="390" width="420" height="230" as="geometry"/>
+        <mxCell id="lkKAGPi_Do3l90EPDDFt-12" value="the code:&lt;br&gt;eb = new EntertainmentBuilder()&lt;br&gt;b = eb.build()&lt;br&gt;eb.setstereo(&quot;bose&quot;)&lt;br&gt;&lt;br&gt;e=eb.build()&lt;br&gt;&lt;br&gt;================&lt;br&gt;New Entertainbuilder()&lt;br&gt;&amp;nbsp; &amp;nbsp;setsterio(&quot;bose&quot;)&lt;br&gt;&amp;nbsp; &amp;nbsp;setconnections(&quot;carplay&quot;)&lt;br&gt;&amp;nbsp; &amp;nbsp;build()&lt;br&gt;&lt;br&gt;# permission - only available to the namespace it is in it&lt;br&gt;&lt;br&gt;only the builder can call&amp;nbsp;&lt;br&gt;&lt;br&gt;only entertainment builder can create entertainment" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-FFPc_2GmYRrsboZQdO_-1">
+          <mxGeometry x="150" y="389" width="420" height="271" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
