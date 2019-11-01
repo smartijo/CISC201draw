@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-01T01:20:35.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="Wv40xyqeHP9LNDgyoJ0Z" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-01T01:21:43.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="2dA38B-jVdJzrj9dRpwJ" version="12.1.9" type="github" pages="1">
   <diagram id="X9D3NGl_XGTqwdXOL-tQ" name="window factory">
     <mxGraphModel dx="1128" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,13 +196,7 @@
         <mxCell id="ua-_prFANKxffut0tlxx-57" value="&lt;h1&gt;And buttons just execute their commands&lt;/h1&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34;&quot;&gt;boolean doThing() {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; boolean b = command.execute();&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; return b;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font face=&quot;Courier New&quot;&gt;....&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="ua-_prFANKxffut0tlxx-1" vertex="1">
           <mxGeometry x="640" y="649" width="370" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="o5nKvvGa9D-mlNPCizWE-0" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ua-_prFANKxffut0tlxx-1">
-          <mxGeometry x="10" y="840" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="o5nKvvGa9D-mlNPCizWE-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ua-_prFANKxffut0tlxx-1">
-          <mxGeometry x="10" y="880" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="o5nKvvGa9D-mlNPCizWE-2" value="my notes: the command button says create button, the type of button are classes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ua-_prFANKxffut0tlxx-1">
+        <mxCell id="o5nKvvGa9D-mlNPCizWE-2" value="my notes: the command button says create button, the type of button are classes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=#000000;" vertex="1" parent="ua-_prFANKxffut0tlxx-1">
           <mxGeometry x="330" y="-240" width="210" height="140" as="geometry"/>
         </mxCell>
       </root>
