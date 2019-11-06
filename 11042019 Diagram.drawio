@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-11-06T02:37:06.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="tKz31z-a3XFS5-Url29p" version="12.2.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-06T02:50:59.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="jObb0Bfio7iite1wzSQO" version="12.2.0" type="github" pages="2">
   <diagram id="w7mWiVyZPYg2Z65vA2U2" name="Page-1">
     <mxGraphModel dx="1128" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="q4cAkHyppMWllS5AH2et-1" value="&lt;b&gt;youtube&lt;/b&gt; - lots of inof for programming&amp;nbsp;&lt;br&gt;state design pattern&lt;br&gt;command design tutorial&lt;br&gt;abstract factory&amp;nbsp;&lt;br&gt;&lt;br&gt;Derek Banas&lt;br&gt;&lt;br&gt;factory pattern - use classes at run time&lt;br&gt;&lt;br&gt;---&lt;br&gt;next assignment - model the problem not the world - suggests starting from scratch&lt;br&gt;how fine do&amp;nbsp; you want the resolution?&lt;br&gt;break down into little chunks&lt;br&gt;can model a shape&lt;br&gt;&amp;nbsp; need the length of the line&lt;br&gt;&amp;nbsp; can put in point locators&lt;br&gt;dont do an ellipses as it is difficult - removed from homework assignment&lt;br&gt;&lt;br&gt;how are you going to store the data&lt;br&gt;how are you going to calculate the data&lt;br&gt;Arial? perimeter? area in sq meters&lt;br&gt;&lt;br&gt;fizzbuzz - programming question answer in an interview&lt;br&gt;&lt;br&gt;numbers 1- 30&lt;br&gt;n/3 = &quot;fizz&quot;&amp;nbsp;&lt;br&gt;n/5 = &quot;buzz&quot;&lt;br&gt;n = &quot;.&quot;&lt;br&gt;&lt;br&gt;in the above order&lt;br&gt;&lt;br&gt;&lt;br&gt;modular math - give back the remainder - % divided by&lt;br&gt;SOLID? no&lt;br&gt;void doFB()&lt;br&gt;&amp;nbsp;for (i = 1....30)&lt;br&gt;&amp;nbsp;if (i%3) ==0&lt;br&gt;print fizz&lt;br&gt;if (i%5) ==0&lt;br&gt;print buzz&lt;br&gt;if (i%3)/=3 or (i%5)/=5&lt;br&gt;print &quot;.&quot;&lt;br&gt;&lt;br&gt;SOLID&lt;br&gt;Single responsibility&lt;br&gt;Open for extension/closed for modification&lt;br&gt;L - WTF principle&lt;br&gt;Interface segregation principle - lots of little interfaces instead of a big one&lt;br&gt;Dependency inversion - depend on abstract rather than concretion&amp;nbsp;&lt;br&gt;&lt;br&gt;Instead setup as classes&lt;br&gt;chain of responsibility pattern - use a command pattern and string them together to determine what it wants to do - works really well, but it must be tailored to the problem not the world&lt;br&gt;default is when all conditions are not met, in the above it is (dot)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q4cAkHyppMWllS5AH2et-1" value="&lt;b&gt;youtube&lt;/b&gt; - lots of inof for programming&amp;nbsp;&lt;br&gt;state design pattern&lt;br&gt;command design tutorial&lt;br&gt;abstract factory&amp;nbsp;&lt;br&gt;&lt;br&gt;Derek Banas&lt;br&gt;&lt;br&gt;factory pattern - use classes at run time&lt;br&gt;&lt;br&gt;---&lt;br&gt;next assignment - model the problem not the world - suggests starting from scratch&lt;br&gt;how fine do&amp;nbsp; you want the resolution?&lt;br&gt;break down into little chunks&lt;br&gt;can model a shape&lt;br&gt;&amp;nbsp; need the length of the line&lt;br&gt;&amp;nbsp; can put in point locators&lt;br&gt;dont do an ellipses as it is difficult - removed from homework assignment&lt;br&gt;&lt;br&gt;how are you going to store the data&lt;br&gt;how are you going to calculate the data&lt;br&gt;Arial? perimeter? area in sq meters&lt;br&gt;&lt;br&gt;fizzbuzz - programming question answer in an interview&lt;br&gt;&lt;br&gt;numbers 1- 30&lt;br&gt;n/3 = &quot;fizz&quot;&amp;nbsp;&lt;br&gt;n/5 = &quot;buzz&quot;&lt;br&gt;n = &quot;.&quot;&lt;br&gt;&lt;br&gt;in the above order&lt;br&gt;&lt;br&gt;&lt;br&gt;modular math - give back the remainder - % divided by&lt;br&gt;SOLID? no&lt;br&gt;void doFB()&lt;br&gt;&amp;nbsp;for (i = 1....30)&lt;br&gt;&amp;nbsp;if (i%3) ==0&lt;br&gt;print fizz&lt;br&gt;if (i%5) ==0&lt;br&gt;print buzz&lt;br&gt;if (i%3)/=3 or (i%5)/=5&lt;br&gt;print &quot;.&quot;&lt;br&gt;&lt;br&gt;SOLID&lt;br&gt;Single responsibility&lt;br&gt;Open for extension/closed for modification&lt;br&gt;L - WTF principle&lt;br&gt;Interface segregation principle - lots of little interfaces instead of a big one&lt;br&gt;Dependency inversion - depend on abstract rather than concretion&amp;nbsp;&lt;br&gt;&lt;br&gt;Instead setup as classes&lt;br&gt;chain of responsibility pattern - use a command pattern and string them together to determine what it wants to do - works really well, but it must be tailored to the problem not the world&lt;br&gt;default is when all conditions are not met, in the above it is (dot)&lt;br&gt;&lt;br&gt;Link Lists - use when used constantly - bad - if specify element - have to follow the links to get to the element - good if need to add constantly&lt;br&gt;Array - delete then have to shift everybody/insert have to shift everybody - good can specify the element bad due to complexity&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="40" width="570" height="530" as="geometry"/>
         </mxCell>
       </root>
@@ -42,7 +42,7 @@
         <mxCell id="4mLNGzfCn4owxk6sO2xW-8" value="Buzzcommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-1">
           <mxGeometry x="345" y="463" width="160" height="86" as="geometry"/>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-9" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-8">
+        <mxCell id="0iFefeg93CXyBpheyunf-0" value="+ command: command" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-8">
           <mxGeometry y="26" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="4mLNGzfCn4owxk6sO2xW-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-8">
@@ -52,13 +52,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="4mLNGzfCn4owxk6sO2xW-13" value="Fizzcommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-1">
-          <mxGeometry x="360" y="250" width="160" height="112" as="geometry"/>
-        </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-38" value="" style="endArrow=openThin;endFill=0;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-13" target="4mLNGzfCn4owxk6sO2xW-24">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="110" as="sourcePoint"/>
-            <mxPoint x="270" as="targetPoint"/>
-          </mxGeometry>
+          <mxGeometry x="360" y="250" width="160" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="4mLNGzfCn4owxk6sO2xW-14" value="+ command: command" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-13">
           <mxGeometry y="26" width="160" height="26" as="geometry"/>
@@ -69,11 +63,14 @@
         <mxCell id="4mLNGzfCn4owxk6sO2xW-16" value="+ execute(int): " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-13">
           <mxGeometry y="60" width="160" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-17" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-13">
-          <mxGeometry y="86" width="160" height="26" as="geometry"/>
+        <mxCell id="4mLNGzfCn4owxk6sO2xW-40" value="" style="endArrow=open;endFill=0;endSize=24;html=1;entryX=0.506;entryY=1.231;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.506;exitY=1.154;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-13" source="4mLNGzfCn4owxk6sO2xW-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80.96000000000004" y="118.00599999999986" as="sourcePoint"/>
+            <mxPoint x="81" y="210" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4mLNGzfCn4owxk6sO2xW-21" value="Chain of responsibility &#xa;(CoR)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-1">
-          <mxGeometry x="600" y="120" width="160" height="95" as="geometry"/>
+          <mxGeometry x="600" y="120" width="160" height="121" as="geometry"/>
         </mxCell>
         <mxCell id="4mLNGzfCn4owxk6sO2xW-22" value="+ commands: command()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-21">
           <mxGeometry y="35" width="160" height="26" as="geometry"/>
@@ -81,20 +78,17 @@
         <mxCell id="4mLNGzfCn4owxk6sO2xW-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-21">
           <mxGeometry y="61" width="160" height="8" as="geometry"/>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-24" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-21">
+        <mxCell id="4mLNGzfCn4owxk6sO2xW-24" value="+ execute(int i)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-21">
           <mxGeometry y="69" width="160" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-27" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-1">
-          <mxGeometry x="100" y="463" width="160" height="86" as="geometry"/>
+        <mxCell id="4mLNGzfCn4owxk6sO2xW-38" value="" style="endArrow=openThin;endFill=0;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-21" source="4mLNGzfCn4owxk6sO2xW-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="30" y="130" as="sourcePoint"/>
+            <mxPoint x="-130" y="130" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-28" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-27">
-          <mxGeometry y="26" width="160" height="26" as="geometry"/>
-        </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-27">
-          <mxGeometry y="52" width="160" height="8" as="geometry"/>
-        </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-30" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-27">
-          <mxGeometry y="60" width="160" height="26" as="geometry"/>
+        <mxCell id="jXos-zo0Np10rB9ShHoD-0" value="+ commandexecute(i,false)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-21">
+          <mxGeometry y="95" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="4mLNGzfCn4owxk6sO2xW-33" value="DefaultDot" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-1">
           <mxGeometry x="580" y="507" width="160" height="86" as="geometry"/>
@@ -108,16 +102,34 @@
         <mxCell id="4mLNGzfCn4owxk6sO2xW-36" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4mLNGzfCn4owxk6sO2xW-33">
           <mxGeometry y="60" width="160" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-39" value="" style="endArrow=open;endFill=0;endSize=24;html=1;entryX=1.013;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.006;exitY=0.769;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1" source="4mLNGzfCn4owxk6sO2xW-34" target="4mLNGzfCn4owxk6sO2xW-11">
+        <mxCell id="4mLNGzfCn4owxk6sO2xW-39" value="" style="endArrow=open;endFill=0;endSize=24;html=1;entryX=0.006;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1" source="4mLNGzfCn4owxk6sO2xW-11" target="4mLNGzfCn4owxk6sO2xW-34">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="630" y="400" as="sourcePoint"/>
-            <mxPoint x="790" y="400" as="targetPoint"/>
+            <mxPoint x="790" y="400" as="sourcePoint"/>
+            <mxPoint x="630" y="400" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4mLNGzfCn4owxk6sO2xW-40" value="" style="endArrow=open;endFill=0;endSize=24;html=1;entryX=0.506;entryY=1.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1" target="4mLNGzfCn4owxk6sO2xW-17">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="441" y="460" as="sourcePoint"/>
-            <mxPoint x="308.03999999999996" y="545.9960000000001" as="targetPoint"/>
+        <mxCell id="0iFefeg93CXyBpheyunf-1" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.769;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1" source="4mLNGzfCn4owxk6sO2xW-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="410" as="sourcePoint"/>
+            <mxPoint x="510" y="470" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0iFefeg93CXyBpheyunf-2" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="460" as="sourcePoint"/>
+            <mxPoint x="520" y="294.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0iFefeg93CXyBpheyunf-3" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1" source="4mLNGzfCn4owxk6sO2xW-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="380.5" as="sourcePoint"/>
+            <mxPoint x="640" y="215" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0iFefeg93CXyBpheyunf-4" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.025;exitY=0.168;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="4mLNGzfCn4owxk6sO2xW-1" source="4mLNGzfCn4owxk6sO2xW-21" target="4mLNGzfCn4owxk6sO2xW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="299" as="sourcePoint"/>
+            <mxPoint x="650" y="225" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
